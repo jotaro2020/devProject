@@ -11,7 +11,10 @@
      
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Кстати, треки на сегодня ->`
 
-![external-content duckduckgo com](https://user-images.githubusercontent.com/68692894/91107308-c9012600-e696-11ea-9717-553f8232526b.gif)
+
+![1-g9ee7RUD831R9n6Km5Jizg](https://user-images.githubusercontent.com/68692894/91107467-30b77100-e697-11ea-933e-03f53a884830.gif)
+
+
 
   -HAARPER - BERLIN 🙉    https://www.youtube.com/watch?v=cSSGPduITXw 
     -Yxngxr1 - Bedroom       https://www.youtube.com/watch?v=qkcmRqzm53Y&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=16
