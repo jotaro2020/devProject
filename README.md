@@ -9,7 +9,7 @@
 
      Кайфую от классной музыки и интересных людей. 
      
-<h4>Кстати, треки на сегодня -></h4>
+<h4> - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Кстати, треки на сегодня ->`</h4>
 <br>
 <ul>
     <li><span style=`color:#ffffff;`>1.HAARPER - BERLIN </span>🙉    https://www.youtube.com/watch?v=cSSGPduITXw </li>
@@ -21,7 +21,7 @@
     
 </ul>
 
-   - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+das) `#f03c15`
+  
 
                             
 И да, не перестану шейрить подкасты от Лекса: https://www.youtube.com/c/lexfridman/videos 👌
