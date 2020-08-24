@@ -12,8 +12,8 @@
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Кстати, треки на сегодня ->`
 
 
-![1-g9ee7RUD831R9n6Km5Jizg](https://user-images.githubusercontent.com/68692894/91107467-30b77100-e697-11ea-933e-03f53a884830.gif)
 
+![1-g9ee7RUD831R9n6Km5Jizg](https://user-images.githubusercontent.com/68692894/91107563-64929680-e697-11ea-8674-717e57e3ab4e.gif)
 
 
   -HAARPER - BERLIN 🙉    https://www.youtube.com/watch?v=cSSGPduITXw 
