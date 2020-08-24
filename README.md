@@ -1,4 +1,4 @@
-<h2>Hello there! Я Жасулан, рад знакоству!👋</h2> 
+<h2>😈ello there! Я Жасулан, рад знакоству!👋</h2> 
 
 Перед запуском незабудьте ввести команду npm install =)
 
@@ -9,7 +9,7 @@
 
      Кайфую от классной музыки и интересных людей. 
      
-Кстати, треки на сегодня -> 
+<h3>Кстати, треки на сегодня -> </h3>
 1. HAARPER - BERLIN 🙉                              https://www.youtube.com/watch?v=cSSGPduITXw                      
 2. DROELOE - Only Be Me                             https://www.youtube.com/watch?v=DkWqeSZYl1c
 3. Baker X Freddie Dredd - Everything's A Gamble    https://www.youtube.com/watch?v=CB1O6B1R4Vg
