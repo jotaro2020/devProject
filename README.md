@@ -17,11 +17,11 @@
     <li>3.DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c </li>
     <li>4.JPEGMAFIA - Thug Tears  https://www.youtube.com/watch?v=PT5mM6k9Akc&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=37</li>
     <li>5.Baker X Freddie Dredd - Everything's A Gamble https://www.youtube.com/watch?v=CB1O6B1R4Vg </li>
-    - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+ 
     
 </ul>
 
-
+   - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
                             
 И да, не перестану шейрить подкасты от Лекса: https://www.youtube.com/c/lexfridman/videos 👌
