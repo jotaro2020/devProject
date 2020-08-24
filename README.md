@@ -12,7 +12,7 @@
 <h4>Кстати, треки на сегодня -></h4>
 <br>
 <ul>
-    <li><span style1=`color:red;`>1.HAARPER - BERLIN </span>🙉    https://www.youtube.com/watch?v=cSSGPduITXw </li>
+    <li><span style=`color:red;`>1.HAARPER - BERLIN </span>🙉    https://www.youtube.com/watch?v=cSSGPduITXw </li>
     <li>2.Yxngxr1 - Bedroom       https://www.youtube.com/watch?v=qkcmRqzm53Y&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=16</li>
     <li>3.DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c </li>
     <li>4.JPEGMAFIA - Thug Tears  https://www.youtube.com/watch?v=PT5mM6k9Akc&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=37</li>
