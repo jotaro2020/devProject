@@ -11,9 +11,10 @@
      
 <h4>Кстати, треки на сегодня -></h4>
 <br>
-
-1.HAARPER - BERLIN 🙉    https://www.youtube.com/watch?v=cSSGPduITXw   
-
+<ul>
+    <li>1.HAARPER - BERLIN 🙉    https://www.youtube.com/watch?v=cSSGPduITXw </li>
+    <li>2.DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c </li>
+</ul>
 2.DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c
 
 3.Baker X Freddie Dredd - Everything's A Gamble https://www.youtube.com/watch?v=CB1O6B1R4Vg
