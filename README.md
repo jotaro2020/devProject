@@ -11,7 +11,7 @@
      
 <h4>Кстати, треки на сегодня -></h4>
 <br>
-<ul style={{color:#fff}}>
+<ul>
     <li>1.HAARPER - BERLIN 🙉    https://www.youtube.com/watch?v=cSSGPduITXw </li>
     <li>2.Yxngxr1 - Bedroom       https://www.youtube.com/watch?v=qkcmRqzm53Y&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=16</li>
     <li>3.DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c </li>
