@@ -13,10 +13,14 @@
 <br>
 <ul>
     <li>1.HAARPER - BERLIN 🙉    https://www.youtube.com/watch?v=cSSGPduITXw </li>
-    <li>2.DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c </li>
+    <li>2.Yxngxr1 - Bedroom       https://www.youtube.com/watch?v=qkcmRqzm53Y&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=16</li>
+    <li>3.DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c </li>
+    <li>4.JPEGMAFIA - Thug Tears  https://www.youtube.com/watch?v=PT5mM6k9Akc&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=37</li>
+    <li>5.Baker X Freddie Dredd - Everything's A Gamble https://www.youtube.com/watch?v=CB1O6B1R4Vg </li>
+    
 </ul>
-2.DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c
 
-3.Baker X Freddie Dredd - Everything's A Gamble https://www.youtube.com/watch?v=CB1O6B1R4Vg
+
+
                             
 И да, не перестану шейрить подкасты от Лекса: https://www.youtube.com/c/lexfridman/videos 👌
