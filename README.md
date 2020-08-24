@@ -21,7 +21,7 @@
     
 </ul>
 
-   - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+   - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+das) `#f03c15`
 
                             
 И да, не перестану шейрить подкасты от Лекса: https://www.youtube.com/c/lexfridman/videos 👌
