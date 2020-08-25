@@ -15,7 +15,7 @@
 
 
 
-![1-g9ee7RUD831R9n6Km5Jizg](https://user-images.githubusercontent.com/68692894/91107563-64929680-e697-11ea-8674-717e57e3ab4e.gif)
+![gif-animations-replace-loading-screen-12](https://user-images.githubusercontent.com/68692894/91107867-28ac0100-e698-11ea-8706-0bf20564c347.gif)
 
 <ul>
     <li>HAARPER - BERLIN 🙉    https://www.youtube.com/watch?v=cSSGPduITXw </li>
@@ -23,7 +23,7 @@
        <li>DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c </li>
        <li>JPEGMAFIA - Thug Tears  https://www.youtube.com/watch?v=PT5mM6k9Akc&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=37</li>
        <li>Baker X Freddie Dredd - Everything's A Gamble https://www.youtube.com/watch?v=CB1O6B1R4Vg </li>
-
+<ul/>
  
 
 
