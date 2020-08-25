@@ -11,7 +11,7 @@
     Так что в качестве извенений кинул вам треков под настроение)
      
      
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Кстати, треки на сегодня ->`
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Надеюсь вам понравиться ->`
 
 
   <ul>  
@@ -21,5 +21,6 @@
        <li>DROELOE - Only Be Me    https://www.youtube.com/watch?v=DkWqeSZYl1c </li>
        <li>JPEGMAFIA - Thug Tears  https://www.youtube.com/watch?v=PT5mM6k9Akc&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=37</li>   
 <ul/>
-    ![1 po58gLLAO9aDnq7fdQ839Q](https://user-images.githubusercontent.com/68692894/91108059-c0115400-e698-11ea-8329-641f5782e579.gif)
+    
+![1 po58gLLAO9aDnq7fdQ839Q](https://user-images.githubusercontent.com/68692894/91108059-c0115400-e698-11ea-8329-641f5782e579.gif)
 
