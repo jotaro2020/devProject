@@ -16,7 +16,7 @@
 <br/> 
 <ul>  
     <base target="_blank">
-    <li>Apocalypse - Cigarettes After Se🙊 <a href="https://www.youtube.com/watch?v=sElE_BfQ67s&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=52" target="_blank">🎵</a>                      👈 Кнопка, правда не открывает в новой вкладке из-за защиты гитхаба) </li>  
+    <li>Apocalypse - Cigarettes After Se🙊 <a href="https://www.youtube.com/watch?v=sElE_BfQ67s&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=52" target="_blank">🎵</a>                      👈 Кнопка, правда не открывает в новой вкладке из-за защиты) </li>  
     <li>HAARPER - BERLIN     <a href="https://www.youtube.com/watch?v=cSSGPduITXw" rel="external">🎵</a></li>
     <li>Yxngxr1 - Bedroom       <a href="https://www.youtube.com/watch?v=qkcmRqzm53Y&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=16" target="_blank" >🎵</a></li>
     <li>DROELOE - Only Be Me    <a href="https://www.youtube.com/watch?v=DkWqeSZYl1c" target="_blank">🎵</a> </li>
