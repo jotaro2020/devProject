@@ -18,9 +18,10 @@
     <base target="_blank">
     <li>Apocalypse - Cigarettes After Se🙊 <a href="https://www.youtube.com/watch?v=sElE_BfQ67s&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=52" target="_blank">🎵</a>                      👈 Кнопка, правда не открывает в новой вкладке из-за свойства rel="noopener", sry) </li>  
     <li>HAARPER - BERLIN     <a href="https://www.youtube.com/watch?v=cSSGPduITXw" rel="external">🎵</a></li>
+    <li>DROELOE - Open Blinds    <a href="https://www.youtube.com/watch?v=Y-MNeN5dDtI">🎵</a> </li>
     <li>Yxngxr1 - Bedroom       <a href="https://www.youtube.com/watch?v=qkcmRqzm53Y&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=16" target="_blank" >🎵</a></li>
     <li>DROELOE - Only Be Me    <a href="https://www.youtube.com/watch?v=DkWqeSZYl1c" target="_blank">🎵</a> </li>
-    <li>JPEGMAFIA - Thug Tears  <a href="https://www.youtube.com/watch?v=PT5mM6k9Akc&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=37" target="_blank">🎵</a> </li></li> 
+    <li>JPEGMAFIA - Thug Tears  <a href="https://www.youtube.com/watch?v=PT5mM6k9Akc&list=PLqEnKfu5OEcEXngELsgm7gfwINm3RL5a7&index=37" target="_blank">🎵</a> </li>
  <ul/>
  <br/>
     
