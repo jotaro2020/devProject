@@ -1,7 +1,7 @@
 <h2>😈ello there! Я Жасулан, рад знакоству!👋</h2> 
 <br/>
 
-Можете сразу перейти <li href='https://gracious-einstein-730d9a.netlify.app/'>сюда<li/>
+Можете сразу перейти <a href='https://gracious-einstein-730d9a.netlify.app/'>сюда<a/>
 <br/>
 <br/>
 
